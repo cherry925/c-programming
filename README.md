@@ -1,4 +1,3 @@
-# c-programming 1w
 #include <stdio.h>
 
 int main(void)
@@ -7,4 +6,3 @@ int main(void)
 	printf("학번: %d\n", 201910150);
 	
 	return 0;
-
